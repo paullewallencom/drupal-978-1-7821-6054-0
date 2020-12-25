@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Fire Department Content Type feature.
+ */
+
+include_once 'fire_department_content_type.features.inc';
